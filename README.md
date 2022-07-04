@@ -13,12 +13,12 @@
 
 ## EDA 
 
-![alt text](https://github.com/ahnngo/AB-Testing-New-Feature-of-Cookie-Cats/blob/master/Before%20Removing%20The%20Extreme%20Value.png)
+![alt text](https://github.com/ahnngo/AB-Testing-New-Feature-of-Cookie-Cats/blob/master/Charts/Before%20Removing%20The%20Extreme%20Value.png)
 
 We will treat outliers by removing all sum_gamerounds value > 2640 and sum_gamerounds value == 0
 
-![alt text](https://github.com/ahnngo/AB-Testing-New-Feature-of-Cookie-Cats/blob/master/After%20Removing%20The%20Extreme%20Value.png)
-![alt text](https://github.com/ahnngo/AB-Testing-New-Feature-of-Cookie-Cats/blob/master/The%20number%20of%20users%20in%20the%20game%20rounds%20played.png)
+![alt text](https://github.com/ahnngo/AB-Testing-New-Feature-of-Cookie-Cats/blob/master/Charts/After%20Removing%20The%20Extreme%20Value.png)
+![alt text](https://github.com/ahnngo/AB-Testing-New-Feature-of-Cookie-Cats/blob/master/Charts/The%20number%20of%20users%20in%20the%20game%20rounds%20played.png)
 
 There is a huge decrease in terms of retention as the difficulty of the game keeps increasing. This could be attributed to several reasons
 
